@@ -53,6 +53,7 @@ NOTE:
 In the same folder location verify "output" file is produced containing following data
 
 output.txt
+
 	X 1 10
 	
 	Y0 2 3 5

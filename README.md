@@ -28,6 +28,7 @@ X 1 10
 Y 2 3 4 5
 Z 6 7 8 9
 
+
 	$ java -jar ID3_exe.jar
 	Enter names of the files dataset input-partition output-partition
 	dataset.txt partition.txt output.txt
@@ -45,7 +46,7 @@ output.txt
 ## Other Tests:
 dataset-1 partition-1 7 2 (2 3 5; 4)
 dataset-1 partition-2 2 1 (1 2 5 9; 3 10)
-dataset-2 partition-3 2 0 (1 5 6 7 9 10 11 12 13 14 15 16 22; ) 
-dataset-3 partition-4 2 1 (7 10 11 18 19 20 24 26 28 39 40;  1 4 9 12 14 25 31 41 44 45 50) 
+dataset-2 partition-3 2 0 (1 5 6 7 9 10 11 12 13 14 15 16 22; )
+ dataset-3 partition-4 2 1 (7 10 11 18 19 20 24 26 28 39 40;  1 4 9 12 14 25 31 41 44 45 50) 
 
 

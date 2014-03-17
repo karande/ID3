@@ -11,6 +11,7 @@ This projects goal is to infer imperfect decision trees with a small number of n
 ## Sample Input and Output
 
 dataset.txt
+
 10 4
 
 0 0 0 0
